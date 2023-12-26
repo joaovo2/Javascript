@@ -16,7 +16,7 @@ quantas vezes quisermos.
 var numeroPrincipal = 34;
 
 /* 
-let é uma palavra-chave introduzida na versão ES6. 
+let é uma palavra-chave     introduzida na versão ES6. 
 Variáveis declaradas com let são escopoadas de 
 forma dinâmica, o que significa que seu escopo é 
 determinado pelo bloco de código no qual são 
